@@ -1,5 +1,9 @@
 # cvfs
 
+<!-- ccid:security:begin (rendered by ccid render; do not edit by hand) -->
+**Security and dependencies:** watched by Renovate (with OSV vulnerability alerts); an update is merged only when its tests pass. See the [security policy](SECURITY.md).
+<!-- ccid:security:end -->
+
 The cross-platform filesystem backend of the CareerVector workspace (`cvws`). It stores opaque
 documents and Yjs op logs under one root and never reads their content.
 
